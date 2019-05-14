@@ -1,5 +1,6 @@
 package newproject;
 
-public class newclass {
-
+public class newclass 
+{
+	int number;
 }
